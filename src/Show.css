@@ -1,0 +1,13 @@
+.box{
+    display: inline-block;
+    background-color: whitesmoke;
+}
+td{
+    border-radius: 5px;
+}
+.result-box{
+    background-color: rgb(205, 194, 209);
+}
+.serial{
+    background-color: whitesmoke;
+}
